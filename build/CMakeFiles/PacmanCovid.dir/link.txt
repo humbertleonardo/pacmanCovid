@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -g  -rdynamic CMakeFiles/PacmanCovid.dir/main.cpp.o CMakeFiles/PacmanCovid.dir/lib/libraries.cpp.o  -o PacmanCovid -lSDL2 

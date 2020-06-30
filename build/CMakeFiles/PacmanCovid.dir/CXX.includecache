@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/lib/libraries.cpp
+iostream
+-
+libraries.h
+/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/lib/libraries.h
+
+/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/lib/libraries.h
+iostream
+-
+SDL2/SDL.h
+/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/lib/SDL2/SDL.h
+SDL2/SDL_ttf.h
+-
+unistd.h
+-
+list
+-
+
+/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/main.cpp
+lib/libraries.h
+/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/lib/libraries.h
+

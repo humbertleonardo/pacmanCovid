@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/PacmanCovid.dir/main.cpp.o -c \"/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/main.cpp\"",
+  "file": "/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/main.cpp"
+},
+{
+  "directory": "/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/build",
+  "command": "/usr/bin/g++-7    -g   -o CMakeFiles/PacmanCovid.dir/lib/libraries.cpp.o -c \"/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/lib/libraries.cpp\"",
+  "file": "/home/humbert/Arquivos/Trabalhos/Algoritmos II/PacmanCovid/lib/libraries.cpp"
+}
+]
